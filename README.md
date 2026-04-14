@@ -80,22 +80,7 @@ I'm a highly self-motivated and goal-oriented **Data Engineering** professional 
 
 ---
 
-## 📊 &nbsp;GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uzair14137&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzair14137&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzair14137&theme=tokyonight&hide_border=true&border_radius=10" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzair14137&theme=tokyo-night&hide_border=true&radius=10" width="95%"/>
-</div>
-
----
 
 ## 🤝 &nbsp;Connect With Me
 
